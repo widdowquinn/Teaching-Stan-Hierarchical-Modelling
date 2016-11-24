@@ -1,2 +1,5 @@
 # Exclude iPython intermediate files
 .ipynb_checkpoints
+
+# Exclude Emacs intermediate files
+*~
