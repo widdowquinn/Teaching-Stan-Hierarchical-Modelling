@@ -1,0 +1,2 @@
+# Exclude iPython intermediate files
+.ipynb_checkpoints
