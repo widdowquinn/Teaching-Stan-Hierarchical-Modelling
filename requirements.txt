@@ -1,0 +1,12 @@
+cycler==0.10.0
+Cython==0.25.1
+matplotlib==1.5.3
+numpy==1.11.2
+pandas==0.19.1
+pyparsing==2.1.10
+pystan==2.12.0.0
+python-dateutil==2.6.0
+pytz==2016.7
+scipy==0.18.1
+seaborn==0.7.1
+six==1.10.0
