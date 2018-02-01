@@ -7,6 +7,10 @@ This set of notebooks works through an example of *hierarchical* (also known as 
 * [Chris Fonnesbeck's primer](http://mc-stan.org/users/documentation/case-studies/radon.html)
 * [Stan homepage](http://mc-stan.org/)
 
+![Radon Problem Description](./images/how_radon_enters.jpg)
+![Plot of Radon by Floor and County](./images/radon_by_floor.png)
+![Plot of Radon by County](./images/radon_by_county.png)
+
 # Reading/Using the Notebooks
 
 These notebooks can be read through online as webpages (follow the links below in [`Notebooks`](#notebooks)), or downloaded and used interactively as [Jupyter](https://jupyter.org/) notebooks, where you can explore and experiment with the models in your web browser, using Python.
