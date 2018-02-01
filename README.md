@@ -11,8 +11,6 @@ This set of notebooks works through an example of *hierarchical* (also known as 
 
 These notebooks can be read through online as webpages (follow the links below in [`Notebooks`](#notebooks)), or downloaded and used interactively as [Jupyter](https://jupyter.org/) notebooks, where you can explore and experiment with the models in your web browser, using Python.
 
-
-
 # License Information
 
 Chris Fonnesbeck's material is licensed under the following licenses:
@@ -22,7 +20,14 @@ Chris Fonnesbeck's material is licensed under the following licenses:
 
 Both licences grant permission to reproduce and prepare derivative works, and these licenses should be considered also to apply to the work in this repository.
 
-<a name="notebooks">
+# Reporting Issues
+
+I will have made mistakes. If you spot any, or would otherwise like to make improvements, I would be grateful if you could please take one of the following actions:
+
+* Raise the issue at the [GitHub issues page](https://github.com/widdowquinn/Teaching-Stan-Hierarchical-Modelling/issues) for this repository.
+* Fork the repository, make the required changes, and then issue a pull request.
+
+<a name="notebooks" />
 # Notebooks
 
 1. [Introduction](01-Introduction.html)
@@ -91,6 +96,6 @@ To start Jupyter, issue the following at the command line:
 jupyter notebook
 ```
 
-This should bring up a view on the current directory in your browser. Click on any of the `.ipynb` notebook files to start them running in your browser.
+This should bring up a view on the current directory in your browser. Click on any of the `.ipynb` notebook files to start them running in your browser - the `index.ipynb` page is a good place to start.
 
 
