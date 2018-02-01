@@ -48,7 +48,9 @@ I will have made mistakes. If you spot any, or would otherwise like to make impr
 12. [Contextual Effects](12-contextual_effects.html)
 13. [Prediction](13-prediction.html)
 
+
 # Getting Started with Interactive Notebooks
+
 
 ## 1. Get the notebooks
 
@@ -63,6 +65,7 @@ Then change into the repository directory:
 ```bash
 cd Teaching-Stan-Hierarchical-Modelling/
 ```
+
 
 ## 2. Create a `virtualenv` to run the notebooks
 
@@ -91,6 +94,7 @@ Finally, install Jupyter:
 ```bash
 pip install jupyter
 ```
+
 
 ## 3. Starting the notebooks
 
